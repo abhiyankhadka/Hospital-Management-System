@@ -1,4 +1,4 @@
-<?hh // strict
+<?php // strict
 
 // Database connection parameters
 $servername = "localhost";
